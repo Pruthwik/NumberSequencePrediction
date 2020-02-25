@@ -1,4 +1,4 @@
-# NumberSequencePrediction
+# Number Sequence Prediction
 
 Number Sequence Prediction:
 
